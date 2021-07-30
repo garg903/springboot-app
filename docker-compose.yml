@@ -9,4 +9,4 @@ mysql:
     - MYSQL_PASSWORD=petclinic
     - MYSQL_DATABASE=petclinic
   volumes:
-    - "./conf.d:/etc/mysql/conf.d:do"
+    - "./conf.d:/etc/mysql/conf.d:gg"
